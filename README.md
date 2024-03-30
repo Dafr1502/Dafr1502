@@ -1,9 +1,9 @@
-### Hai semua 👋
+### Hi Everyone 👋
 
-- ♟️ Perkenalkan nama saya **Danu Febrianto**.<br>
-- 🎒 Saya Mahasiswa dari **Universitas Pamulang**.<br>
-- ✍️ Sekarang sedang belajar di SIB x Dicoding Cycle 6 **Front-End Web and Back-End**.
-- 💬 Follow Instagramku [Instagram](https://www.instagram.com/danufbrnt/).
+- ♟️ My name is **Danu Febrianto**.<br>
+- 🎒 I am a student majoring in informatics engineering from Pamulang University **Universitas Pamulang**.<br>
+- ✍️ Currently learning in SIB x Dicoding Cycle 6 **Front-End Web and Back-End**.
+- 💬 Follow my Instagram [Instagram](https://www.instagram.com/danufbrnt/).
 
 ### Github Statistic
 <p align="left">
