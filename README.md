@@ -2,7 +2,7 @@
 
 - ♟️ My name is **Danu Febrianto**.<br>
 - 🎒 a student majoring in Informatics Engineering from **Pamulang University**.<br>
-- ✍️ Currently learning in SIB x Dicoding Cycle 6 **Front-End Web and Back-End**.
+- ✍️ Graduate from SIB x Dicoding Cycle 6  **Front-End Web and Back-End**.
 - 💬 Contact me on **Instagram** or **LinkedIn**.
 
 ### Github Statistic
