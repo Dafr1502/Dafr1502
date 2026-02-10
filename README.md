@@ -1,9 +1,9 @@
 ### Hi Everyone 👋
 
 - ♟️ My name is **Danu Febrianto**.<br>
-- 🎒 a student majoring in Informatics Engineering from **Pamulang University**.<br>
+- 🎒 Graduate student Informatics Engineering from **Pamulang University**.<br>
 - ✍️ Graduate from SIB x Dicoding Cycle 6  **Front-End Web and Back-End**.
-- 💬 Contact me on **Instagram** or **LinkedIn**.
+- 💬 Contact me on **Instagram**(https://instagram.com/danufbrnt) or **LinkedIn**(https://www.linkedin.com/in/danu-febrianto/).
 
 ### Github Statistic
 <p align="left">
